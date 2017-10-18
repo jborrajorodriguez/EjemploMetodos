@@ -43,5 +43,8 @@ public class Rectangulo {
         float calcularPerimetro= 2*ba +2*al;
         return calcularPerimetro;
     }
+    public String visualizar(){
+        return ("base = "+base + "\naltura = "+altura);
+    }
     
 }
