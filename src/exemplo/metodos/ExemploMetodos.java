@@ -28,6 +28,7 @@ public class ExemploMetodos {
         //System.out.println("Altura"+mostrarAltura);
         System.out.println("Altura = "+rectangulo2.getaltura());
         //comentario para visualizar que funcionan la opcion de colaboradores
+        // Funciono
         
     }
     
